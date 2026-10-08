@@ -12,7 +12,7 @@ The companion is not an Apple product and does not imply App Store approval of A
 
 ### Install
 
-1. Download the companion disk image from the setup page or this repository's Releases.
+1. Download the companion ZIP archive from the setup page or this repository's Releases.
 2. Drag **Agent Energy Companion** into **Applications** and open it there.
 3. Click **Install Companion** and approve it in **System Settings → General → Login Items & Extensions**.
 4. Reopen Agent Energy's menu. If a lid-open session is active, switch to Standby first, then click the can to start a new session.
